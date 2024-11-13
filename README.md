@@ -1,2 +1,3 @@
 # clone-tabnews
-Projeto CursoDev, recriando o TabNews 
+
+Projeto CursoDev, recriando o TabNews
